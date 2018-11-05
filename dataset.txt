@@ -3509,6 +3509,7 @@ fl
 fla
 flag
 flags
+flamboyant
 flame
 flash
 flashers
@@ -4956,7 +4957,6 @@ kong
 korea
 korean
 kruger
-ks
 kurt
 kuwait
 kw

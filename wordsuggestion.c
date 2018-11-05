@@ -65,41 +65,6 @@ bool isLeaf(node *t) {
     return true;
 }
 
-// ! NOTE: I am omitting the search function as it is not required.
-
-/************************************************************
- *                      DEBUG FUNCTIONS                     * 
- ************************************************************/
-
-// Helper function to print the word found
-void printWord(char* str, int n)
-{
-    printf("\n");
-    for(int i = 0; i < n; i++)
-    {
-        printf("%c ", str [i]);
-    }
-}
-// Print all words in Trie
-void printAllWords(node* root, char* wordArray, int pos)
-{
-   if(root == NULL)
-      return;
-   
-   if(root->isEnd)
-   {
-      printWord(wordArray, pos);
-   }
-   for(int i=0; i<ALPHABET_RANGE; i++)
-   {
-      if(root->children [i] != NULL)
-      {
-         wordArray [pos] = i+'a';
-         printAllWords(root->children [i], wordArray, pos+1);
-      }
-   }
-}
-
 /************************************************************
  *                   AUTOSUGGEST SYSTEM                     *
  ************************************************************/
@@ -194,5 +159,5 @@ int main() {
         strcat(q, input);
         getSuggestions(trie, q);
     } while(input[0] != '0');
-    // Print suggestionss
+    // Print suggestions
 }
