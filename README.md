@@ -6,6 +6,9 @@
 
 
 ---
+#### You can find link to our Prezi [here](https://prezi.com/view/BVn44i9Gtub6ysha2yF9/). 
+
+
 ### Word suggestion for each prefix you enter! 
 
 This program will allow you to get word suggestions for words starting with the letters you enter. We have made use of Trie data structure to achieve this. The dataset used here is the [MIT 10000 Words list](http://www.mit.edu/~ecprice/wordlist.10000). 
@@ -33,7 +36,7 @@ This program will allow you to get word suggestions for words starting with the 
 
 <h4> Running the program on terminal  </h4>
 <br>
-<img src="./ds project.gif" align="center" width=700px>
+<img src="./Images/ds project.gif" align="center" width=700px>
 
 </div>
 
@@ -41,6 +44,7 @@ This program will allow you to get word suggestions for words starting with the 
 
 ### This project still has scope of development, so you can also contribute to this project as follows:
 * [Fork](https://github.com/arghyadeep99/Word-Suggester) this Repository.
+
 * Clone your Fork on a different branch:
 	* `git clone -b <name-of-branch> https://github.com/arghyadeep99/Word-Suggester.git`
 * After adding any feature:
