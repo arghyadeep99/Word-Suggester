@@ -1,9 +1,10 @@
 # Word Suggester
 
-<p align="center">
+<p align="center"
 	
 [![HitCount](http://hits.dwyl.io/arghyadeep99/Word-Suggester.svg)](http://hits.dwyl.io/arghyadeep99/Word-Suggester)  [![MIT License](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)  [![made-with-C](https://img.shields.io/badge/Made%20with-C-1f425f.svg)](https://www.cprogramming.com/)
 
+</p>
 
 ---
 #### You can find link to our Prezi [here](https://prezi.com/view/BVn44i9Gtub6ysha2yF9/). 
