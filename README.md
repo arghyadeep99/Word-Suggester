@@ -9,6 +9,7 @@
 ---
 #### You can find link to our Prezi [here](https://prezi.com/view/BVn44i9Gtub6ysha2yF9/). 
 
+Code Credits and Inspiration: [Vikrant Gajria](https://github.com/vixrant)
 
 ### Word suggestion for each prefix you enter! 
 
